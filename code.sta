@@ -1,0 +1,12 @@
+int A,b,c.
+read "First:" a.
+newLine.
+read "Second:" b.
+/* Comment,.acb,32is */
+/* newLine. */
+c is a+b.
+c is c/2.
+write "Result:" c.
+a+b-c/2
+{asd}
+/* Deneme 
